@@ -1,0 +1,44 @@
+body {
+  diplay: block;
+  background-color: #a2a2b9;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 50%;
+  width: 25%;
+  box-shadow: 1px 1px 1px #888888;
+  background-color: #e8e3e3;
+}
+
+#welcomeBack {
+  font-family: monospace;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#signIn {
+  text-align: center;
+  font-size: 18px;
+  padding-top: none;
+}
+#email{
+  margin: auto;
+  margin-top: 10px;
+}
+#passWord{
+  margin:auto;
+  margin-top: 10px;
+}
+.forgot{
+  font-size: 14px;
+  margin: auto;
+  padding-bottom: 10px;
+}
+#signInButton {
+  margin:auto;
+  padding-bottom: 25px;
+
+}
